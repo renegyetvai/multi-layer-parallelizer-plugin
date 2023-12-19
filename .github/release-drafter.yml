@@ -1,2 +1,2 @@
 _extends: .github
-tag-template: multi-layer-parallelizer-plugin-$NEXT_MINOR_VERSION
+tag-template: multi-layer-parallelizer-$NEXT_MINOR_VERSION

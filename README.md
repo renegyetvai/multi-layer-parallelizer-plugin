@@ -1,4 +1,4 @@
-# multi-layer-parallelizer-plugin
+# multi-layer-parallelizer
 
 ## Introduction
 
